@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm David Garcia Jeronimo
+# Hi there! 👋 I'm David
 
 I'm a passionate **Software Engineer** specializing in web development, both frontend and backend. I enjoy building robust and scalable solutions and always strive to learn and grow in the tech world.
 
